@@ -1,3 +1,5 @@
+"""enjoy"""
+
 import random
 
 
